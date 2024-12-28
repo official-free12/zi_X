@@ -1,0 +1,6 @@
+# （自适应手机端）刷卡pos机金融数据支付电子科技公司网站pbootcms模板移动支付设备pos
+
+用户须知：（请购买前务必阅读）<br>1：为避免不必要的纠纷，本店源码均提供前后台演示，如果失效请联系客服提供前后台或测试账号；<br>2：请务必测试完演示站再决定是否购买，一但拍下，不接受非源码质量问题上的退款申请；<br>3：标价仅为源码费用，如果需要提供安装服务，请事先联系店主并确保你的主机必须为宝塔环境，需提供宝塔账号。<br>4：免费安装服务仅限搭建到服务器，能够访问前后台。涉及对接支付接口、API对接等服务，另外协商费用；<br>5：程序仅供学习研究，请勿用于非法用途，不得违反国家法律，否则后果自负，一切法律责任与本店无关。<br>6：请仔细阅读以上条款再购买，拍下即代表同意条款并遵守约定，谢谢大家支持理解！<br>免费授权可商用不限域名高效、简洁、强悍的可免费商用的PHPCMS源码<br>如需测试模板及后台，联系QQ：939782141免费提供测试站，满意再购买。模板演示 :http://example.com/moban/k106/<br>（自适应手机端）刷卡pos机金融数据支付电子科技公司网站pbootcms模板 移动支付设备pos机网站源码下载PbootCMS内核开发的网站模板，该模板适用于pos机网站、移动支付设备网站等企业，当然其他行业也可以做，只需要把文字图片换成其他行业的即可；自适应，同一个后台，数据即时同步，简单适用！附带测试数据！<br>所有页面均都能完全自定义标题/关键词/描述，PHP程序，安全、稳定、快速，响应式同一个后台，数据即时同步，简单适用，附带测试数据！！ 用低成本获取源源不断订单！<br>后台：http://您的域名/example.com<br>账号：admin<br>密码：admin<br>模板特点<br>1：手工书写DIV+CSS、代码精简无冗余。<br>2：自适应结构，全球先进技术，高端视觉体验。<br>3：SEO框架布局，栏目及文章页均可独立设置标题/关键词/描述。<br>4：附带测试数据、安装教程、入门教程、安全及备份教程。<br>5：后台直接修改联系方式、传真、邮箱、地址等，修改更加方便。<br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/rUMpN" style="color: red;">https://mega-file.org/rUMpN</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
